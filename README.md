@@ -1,5 +1,10 @@
 # Unity week 2: Formal elements
 
+itch game
+
+https://aviv-jessie.itch.io/assignment2-spaceship
+
+
 A project with step-by-step scenes illustrating some of the formal elements of game development in Unity, including: 
 
 * Prefabs for instantiating new objects;
