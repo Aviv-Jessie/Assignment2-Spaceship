@@ -22,7 +22,6 @@ public class KeyboardSpawner: MonoBehaviour {
         if (newObjectMover) {
             newObjectMover.SetVelocity(velocityOfSpawnedObject);
         }
-
         return newObject;
     }
 
