@@ -1,23 +1,29 @@
 # Unity week 2: Formal elements
 
-itch game
+itch.io game:
 
 https://aviv-jessie.itch.io/assignment2-spaceship
 
+We made a spaceship game with 2 changes:
+1. the spaceship has 3 lives
+2. the laser shoot is splits to 3 laser shoots
 
-A project with step-by-step scenes illustrating some of the formal elements of game development in Unity, including: 
 
-* Prefabs for instantiating new objects;
-* Colliders for triggering outcomes of actions;
-* Coroutines for setting time-based rules.
 
-Text explanations are available 
-[here](https://github.com/erelsgl-at-ariel/gamedev-5780) in folder 06.
 
-NOTE: When you first open this project, you may not see the text in the score field.
-This is because TextMesh Pro is not in the project.
-The Unity Editor should hopefully prompt you to import TextMeshPro;
-once you do this, re-open the scenes, and you should be able to see the texts.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Credits
 
