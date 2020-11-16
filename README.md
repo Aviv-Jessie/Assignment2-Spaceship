@@ -1,32 +1,27 @@
-# Unity week 2: Formal elements
 
-itch.io game:
+Hello, Welcome to our games!
 
+ We are learning PC-Game development, and our assignments its to make changes in spaceship game.
+
+We made another changes every section, in this section, we changed the walls attributes and collisions:
+
+the game:
 https://aviv-jessie.itch.io/assignment2-spaceship
+
+# Changes:
+* Assets/Scripts/3-collisions/DestroyOnTriggerWithLives.cs
 
 We made a spaceship game with 2 changes:
 1. the spaceship has 3 lives
 2. the laser shoot is splits to 3 laser shoots
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Credits
+### Assignment solver
+* Aviv
+* Omri
+* Jessica
 
+### Assignment writer
 Programming:
 * Maoz Grossman
 * Erel Segal-Halevi
